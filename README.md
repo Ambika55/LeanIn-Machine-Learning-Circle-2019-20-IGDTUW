@@ -8,3 +8,7 @@ Introduction to Machine Learning and Data Science.
 - Installations in pdf
 - Basics of Python in Jupyter Notebook
 - Resouces for Python in th pdf
+
+**3. Session 3:**
+- Data Structures of python 
+- Introduction to Numpy 
